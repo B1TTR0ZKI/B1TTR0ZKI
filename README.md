@@ -2,7 +2,7 @@
 I'M A STUDENT PURSUING MY BACHLEORS DEGREE IN COMPUTER ENGINEERING FROM PIMPRI CHINCHWAD COLLEGE OF ENGINEERING, PUNE.<br>REACH ME ON **anishjoshirao@gmail.com** <br>OR 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/anish-joshirao-606872053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grpathak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bittrozki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grpathak" height="30" width="40" /></a>
 <a href="https://instagram.com/anish_joshira0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_grpathak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yuvibittrozki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dr_ghungroo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bittrozki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="grpathak9" height="30" width="40" /></a>
